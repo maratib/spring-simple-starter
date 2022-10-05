@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "2df4cd0f-ad21-494b-ba6a-ca522e57bf68",
+    "colId": "de414c3b-0acb-4f7a-96b2-d6e525a53971",
+    "containerId": "",
+    "name": "Home",
+    "url": "{{API}}",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2022-10-05T14:30:50.281Z",
+    "modified": "2022-10-05T14:30:59.429Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "deb02814-0bbc-4dea-906a-2aa95595bc20",
+    "colId": "de414c3b-0acb-4f7a-96b2-d6e525a53971",
+    "containerId": "",
+    "name": "UserAuth",
+    "url": "{{API}}",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2022-10-05T15:26:06.524Z",
+    "modified": "2022-10-05T17:31:23.931Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\": \"mail@mail.com\",\n  \"password\": \"passw0rd\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]

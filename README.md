@@ -6,3 +6,7 @@
 ## Features added
 ### Exception handling
 ### TDD 
+
+
+#### OpenApi
+at http://host/swagger
